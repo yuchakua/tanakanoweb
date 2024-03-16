@@ -1,0 +1,20 @@
+
+{
+    "name": "tanakanoweb",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "start": "node index.html"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yuchakua/tanaka-web.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/yuchakua/tanaka-web/issues"
+    },
+    "homepage": "https://github.com/yuchakua/tanaka-web#readme"
+}
+ 
